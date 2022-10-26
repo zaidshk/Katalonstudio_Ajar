@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Back to homepage</name>
+   <tag></tag>
+   <elementGuidId>2400895f-c2fe-4f4c-a52a-9d5eeb2ef8aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#login-back2 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='login-back2']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>80bab868-6c6b-456c-a37b-a5ae70a40f1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to homepage</value>
+      <webElementGuid>6dc70ebc-91ba-43f6-8841-d063ce43fb61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-back2&quot;)/span[1]</value>
+      <webElementGuid>5341d0ef-e265-424e-abdf-aaa1b03bc685</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='login-back2']/span</value>
+      <webElementGuid>da528aba-d70d-4b64-9ae9-255dcdd5f894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue with phone number'])[1]/following::span[1]</value>
+      <webElementGuid>f2920ff5-c87d-472a-89b2-dcf45fdbe853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::span[2]</value>
+      <webElementGuid>3c6313e5-9006-4e96-995c-df74bc6ffe64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='العربية'])[1]/preceding::span[1]</value>
+      <webElementGuid>63db2a70-44c1-4225-965c-4990ef26d9b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'login-back2', '&quot;', ')/span[1]')])[1]/preceding::span[2]</value>
+      <webElementGuid>22fbbda4-fb7d-4c91-b97b-263747ed5c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a/span</value>
+      <webElementGuid>927607ac-9e61-4058-b8ab-7da982c92f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Back to homepage' or . = 'Back to homepage')]</value>
+      <webElementGuid>fdbf6e2c-a092-4d5a-a99c-4a7350fb8f8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

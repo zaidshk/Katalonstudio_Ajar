@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pricing</name>
+   <tag></tag>
+   <elementGuidId>6350ebb1-9d42-4648-b0b9-5aa03f905b25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenants'])[2]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ec96215f-0e5c-4910-95ce-79833037b086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pricing</value>
+      <webElementGuid>d679e8b5-c5c3-4ffe-80b3-acb72f69314b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-landing[1]/app-landing-header[1]/nav[@class=&quot;bg-bg-3 sticky-top py-4 py-lg-7&quot;]/div[@class=&quot;d-none d-lg-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-center justify-content-between&quot;]/div[@class=&quot;text-center d-flex justify-content-center col-6&quot;]/a[@class=&quot;fw-bold mx-4 text-dark-1 aos-init aos-animate&quot;]/span[1]</value>
+      <webElementGuid>93a3aa9a-c1b4-4660-8c2f-f0fd69ae82ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenants'])[2]/following::span[1]</value>
+      <webElementGuid>21113b16-c63b-4a24-a640-f2e34c99a08c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Landlords'])[2]/following::span[2]</value>
+      <webElementGuid>ff81fcc7-1fb2-4df5-b0c8-31b3ec1a2f76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[2]/preceding::span[1]</value>
+      <webElementGuid>2a203c3d-b9e7-4874-b1a9-d8afa601b809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='العربية'])[2]/preceding::span[2]</value>
+      <webElementGuid>b6b5181e-c780-40fc-82c7-ab99161dbeda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/span</value>
+      <webElementGuid>c0a579c4-d561-46d0-9431-7580bbe30643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pricing' or . = 'Pricing')]</value>
+      <webElementGuid>d58c9f6a-5bca-49c9-975c-fa12e9966c56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
