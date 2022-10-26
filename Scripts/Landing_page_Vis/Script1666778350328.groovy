@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/Page_Ajar/span_About Us'))
 
 WebUI.takeFullPageScreenshotAsCheckpoint('About page screenshot')
 
-WebUI.click(findTestObject('Object Repository/Page_Ajar/span_Log Ins'))
+WebUI.click(findTestObject('Object Repository/Page_Ajar/span_Log In'))
 
 WebUI.takeFullPageScreenshotAsCheckpoint('Login page screenshots')
 
@@ -45,7 +45,7 @@ WebUI.click(findTestObject('Object Repository/Page_Ajar/span_Back to other optio
 
 WebUI.click(findTestObject('Object Repository/Page_Ajar/span_Back to homepage'))
 
-WebUI.click(findTestObject('Object Repository/Page_Ajar/a_Schedule a demos'))
+WebUI.click(findTestObject('Object Repository/Page_Ajar/a_Schedule a demo'))
 
 WebUI.takeFullPageScreenshotAsCheckpoint('Schedule a demo page form screenshot')
 
