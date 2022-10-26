@@ -45,7 +45,7 @@ WebUI.click(findTestObject('Object Repository/Page_Ajar/span_Back to other optio
 
 WebUI.click(findTestObject('Object Repository/Page_Ajar/span_Back to homepage'))
 
-WebUI.click(findTestObject('Object Repository/Page_Ajar/a_Schedule a demo'))
+WebUI.click(findTestObject('Object Repository/Page_Ajar/a_Schedule a demos'))
 
 WebUI.takeFullPageScreenshotAsCheckpoint('Schedule a demo page form screenshot')
 
