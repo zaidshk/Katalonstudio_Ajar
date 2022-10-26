@@ -39,7 +39,7 @@ WebUI.takeFullPageScreenshotAsCheckpoint('Login page screenshots')
 
 WebUI.click(findTestObject('Object Repository/Page_Ajar/span_Continue with phone number'))
 
-WebUI.takeFullPageScreenshotAsCheckpoint('Conitnue with phone number page screenshots')
+WebUI.takeFullPageScreenshotAsCheckpoint('Conitnue with phone number page screenshotss')
 
 WebUI.click(findTestObject('Object Repository/Page_Ajar/span_Back to other options'))
 
